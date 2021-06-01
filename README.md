@@ -3,7 +3,7 @@ We are going to work with COVID19 dataset,published by John Hopkins University.
  
  PROJECT STRUCTURE 
  
-Task1: introduction: Understand the purpose of the project,the datasets that will be used, and the questio we will answer with our analysis.
+Task1: introduction: Understand the purpose of the project,the datasets that will be used, and the question we will answer with our analysis.
 
 Task2: Importing COVID19 dataset: import COVID19 dataset and prepare it for the analysis by dropping columns and aggregrating rows.
 
